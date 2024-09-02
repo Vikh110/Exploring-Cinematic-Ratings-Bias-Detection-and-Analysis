@@ -39,4 +39,5 @@ The analysis examines whether Fandango's ratings were skewed towards more favora
 ## Results and Insights
 
 **Bias Detection**: The analysis revealed that Fandango's ratings were indeed biased towards higher ratings compared to other platforms. This bias could potentially be linked to efforts to drive higher ticket sales.
+
 **Comparative Analysis**: Significant discrepancies were found between Fandango's ratings and those from Rotten Tomatoes, Metacritic, and IMDb, suggesting that consumers might need to be cautious when relying solely on Fandango's ratings.
